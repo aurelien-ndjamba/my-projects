@@ -2,3 +2,4 @@ nouveau test dans fichier1.txt
 cameroun
 france
 togo
+ghana
